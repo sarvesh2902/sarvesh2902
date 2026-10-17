@@ -52,16 +52,6 @@
   <img src="https://img.shields.io/badge/Agentic%20AI-3382ed?style=flat-square" alt="Agentic AI" />
 </p>
 
-## Elsewhere
-
-<p align="left">
-  <a href="https://twitter.com/sarvesh_2902"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://instagram.com/patil__sarvesh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.hackerrank.com/sarvesh2902"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/sarvesh2902/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="https://holopin.io/@sarveshpatil29"><img src="https://img.shields.io/badge/Holopin-6E40C9?style=flat-square" alt="Holopin" /></a>
-</p>
-
 ## GitHub stats
 
 <p align="center">
