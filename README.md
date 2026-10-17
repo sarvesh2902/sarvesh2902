@@ -5,7 +5,7 @@
   <a href="https://sarvesh2902.github.io/"><img src="https://img.shields.io/badge/Portfolio-3382ed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/sarvesh2902"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sarvesh2902@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=sarvesh2902&label=Profile%20views&color=3382ed&style=for-the-badge" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sarvesh2902.sarvesh2902&left_text=Profile%20views&left_color=555&right_color=3382ed" alt="Profile views" height="28" />
 </p>
 
 ## About me
