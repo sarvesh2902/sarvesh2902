@@ -1,68 +1,70 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-, I'm Sarvesh Patil</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sarvesh Patil</h1>
+<h3 align="center">AI Engineer · Full Stack Developer · MS CS @ NC State</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh2902&label=Profile%20views&color=3382ed&style=for-the-badge&label=VISITORS" alt="sarvesh2902" /> </p>
-
-- 🌍  I'm based in Mumbai
-
-- 🖥️  See my portfolio at [https://sarvesh2902.github.io/](http://sarvesh2902.github.io/)
-
-- 🚀 I’m currently working on **Portfolio Generator, ProtoHubs.IO, SUD Life Insurance**
-
-- 🧠 I’m currently learning **ML and DS, DSA**
-
-- 🤝 I’m looking to collaborate on **Web Development Projects**
-
-- 💬 Ask me about **MERN Stack, Python, NextJS**
-
-- ✉️ You can also reach out to me at **sarvesh2902@gmail.com**
-
-
-## Skills
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://sarvesh2902.github.io/"><img src="https://img.shields.io/badge/Portfolio-3382ed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/sarvesh2902"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sarvesh2902@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sarvesh2902&label=Profile%20views&color=3382ed&style=for-the-badge" alt="Profile views" />
 </p>
 
+## About me
 
-## Socials
+- 🎓 Pursuing an **MS in Computer Science at North Carolina State University** (2026–2028) in Raleigh, NC
+- 💼 Previously a **Senior Software Engineer at Nomura** (2024–2026), building agentic AI tools, LLM-powered ETL pipelines and developer platform plugins on Backstage
+- 🏆 **7x hackathon winner**, including 1st at Hack-AI-Thon, sponsor prizes at ETHIndia'23 and HackThisFall 4.0, and a job offer as a KakushIN 7.0 finalist (700+ participants)
+- 🧠 Currently working on **LLM agents, RAG and parallel systems**
+- 🤝 Open to **Summer 2027 SWE / AI engineering internships** and collaborations on AI projects
+- 💬 Ask me about **LangGraph, RAG, Next.js, FastAPI and the MERN stack**
+
+## Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**BlendForce**](https://github.com/sarvesh2902/blendforce) | LLM-powered ATS and candidate recommendation engine that cut manual screening time by 75% | Next.js, Node.js, MongoDB, LlamaIndex, scikit-learn |
+| [**IntelliPrep**](https://github.com/sarvesh2902/intelliprep) | AI exam-prep platform that turns PDF notes into MCQ tests, plus doubt solving and teacher calls | Next.js, TypeScript, Flask, LangChain, OpenAI |
+| [**CampusFix AI**](https://github.com/sarvesh2902/campusfixai) | Multimodal campus issue reporting built for NC State MLH Hack Day: photograph a problem, get a service request | TypeScript, Google Gemini API |
+
+## Tech stack
+
+**Languages & tools**
 
 <p align="left">
-<a href="https://twitter.com/sarvesh_2902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarveshpatil_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarvesh2902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesarveshpatil" height="30" width="40" /></a>
-<a href="https://fb.com/sarvesh2902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarveshsamir" height="30" width="40" /></a>
-<a href="https://instagram.com/patil__sarvesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patil__sarvesh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sarvesh2902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarvesh2902" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sarvesh2902/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sarvesh2902/profile" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,c,git,github,vscode,figma" alt="Languages and tools" />
 </p>
 
-## Badges
+**Frameworks, data & cloud**
 
-[![@sarveshpatil29's Holopin board](https://holopin.me/sarveshpatil29)](https://holopin.io/@sarveshpatil29)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,tailwind,mui,graphql,mongodb,firebase,docker,aws" alt="Frameworks, data and cloud" />
+</p>
 
-<p align="center"<a href="https://github.com/sarvesh2902" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh2902&langs_count=10&count_private=true&title_color=3382ed&text_color=ffffff&layout=compact&icon_color=3382ed&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
+**AI / ML**
 
-<p align="center"<a href="http://www.github.com/sarvesh2902"><img src="https://github-readme-stats.vercel.app/api?username=sarvesh2902&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&show_icons=true" alt="sarvesh2902's GitHub stats" /></a></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/RAG-3382ed?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-3382ed?style=flat-square" alt="Agentic AI" />
+</p>
 
-<p align="center"<a href="http://www.github.com/sarvesh2902"><img src="https://streak-stats.demolab.com/?user=sarvesh2902&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
+## Elsewhere
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sarvesh2902&bg_color=0D1117&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="left">
+  <a href="https://twitter.com/sarvesh_2902"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/patil__sarvesh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.hackerrank.com/sarvesh2902"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/sarvesh2902/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://holopin.io/@sarveshpatil29"><img src="https://img.shields.io/badge/Holopin-6E40C9?style=flat-square" alt="Holopin" /></a>
+</p>
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sarvesh2902&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak" />
+</p>
